@@ -7,6 +7,7 @@ ThreatDeck is my final project for INST 377. It's a live dashboard that pulls re
 I built and tested this for modern desktop browsers (Chrome, Firefox, Safari, Edge). 
 Also works on mobile.
 
----
+## Vercel Link
+https://final-threatdeck.vercel.app/
 
 ### 📖 [Click here for the Developer Manual](./docs/developer_manual.md)
